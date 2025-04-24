@@ -35,4 +35,4 @@ Bu proje dizini, SQL Server Management Studio (SSMS) ortamında yürütülen ü�
 
 ---
 
-Her bir `.sql` dosyası, SSMS ortamında sırasıyla çalıştırılabilir yapıdadır. Ekran görüntüleri ve örnek çıktılar ayrı klasörde yer almakta, GitHub sürüm kontrolüne uygundur.
+Her bir `.sql` dosyası, SSMS ortamında sırasıyla çalıştırılabilir yapıdadır.

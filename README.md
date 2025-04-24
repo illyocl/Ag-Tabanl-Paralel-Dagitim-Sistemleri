@@ -10,7 +10,7 @@ Bu proje dizini, SQL Server Management Studio (SSMS) ortamında yürütülen ü�
 - `01_yedekleme.sql`: Northwind veritabanının tam yedeğini alma.
 - `02_tablo_sil.sql`: Örnek bir felaket senaryosu (veri kaybı).
 - `03_yedekten_geri_yukleme.sql`: Yedek dosyasından veritabanını Northwind_Kurtarildi adıyla geri yükleme.
-- `04_geri_yuklenen_veriyi_goruntule.sql`: Kurtarılan veri içeriğini kontrol etme.
+- `04_geri_yuklenen_veriyi_kontrol.sql`: Kurtarılan veri içeriğini kontrol etme.
 
 ## 📁 Veritabanı Güvenliği ve Erişim Kontrolü
 

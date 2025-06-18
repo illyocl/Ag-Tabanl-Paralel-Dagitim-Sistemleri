@@ -1,6 +1,9 @@
 
+## Proje Videoları:
+https://drive.google.com/drive/folders/1VHescsVjVs9wswfoyq-fI1isCB9GeOsv?usp=sharing
 
-Bu proje dizini, SQL Server Management Studio (SSMS) ortamında yürütülen 7 farklı veritabanı uygulamasını içermektedir. Her bir proje, gerçek dünyadaki senaryolara uygun olarak planlanmış ve SQL komutlarıyla adım adım uygulanmıştır.
+
+Bu proje dizini, SQL Server Management Studio (SSMS) ortamında yürütülen 7 farklı veritabanı uygulamasını, kullanılan veritabanını, proje raporunu ve proje tanıtım videolarını içermektedir. Her bir proje, gerçek dünyadaki senaryolara uygun olarak planlanmış ve SQL komutlarıyla adım adım uygulanmıştır.
 
 ## 📁 Veritabanı Yedekleme ve Felaketten Kurtarma Planı
 
